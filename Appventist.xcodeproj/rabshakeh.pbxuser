@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AppventistAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 866}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 276}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Appventist */ = {
+		activeExec = 0;
+		executables = (
+			C92764A613604FB800294D59 /* Appventist */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Distribute;
+		activeExecutable = C92764A613604FB800294D59 /* Appventist */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Appventist */;
+		codeSenseManager = C92764CC13604FBB00294D59 /* Code sense */;
+		executables = (
+			C92764A613604FB800294D59 /* Appventist */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					995,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325353953;
+			PBXWorkspaceStateSaveDate = 325353953;
+		};
+		perUserProjectItems = {
+			C91FBEE31361BC8300960EE3 /* PlistBookmark */ = C91FBEE31361BC8300960EE3 /* PlistBookmark */;
+			C927653F1360616100294D59 /* PBXTextBookmark */ = C927653F1360616100294D59 /* PBXTextBookmark */;
+			C9739AC913648DD5003DD1BE /* PlistBookmark */ = C9739AC913648DD5003DD1BE /* PlistBookmark */;
+			C9BA07F413608FD200A17F5D /* PBXTextBookmark */ = C9BA07F413608FD200A17F5D /* PBXTextBookmark */;
+			C9D86E1C136476CB00CD878C /* PlistBookmark */ = C9D86E1C136476CB00CD878C /* PlistBookmark */;
+		};
+		sourceControlManager = C92764CB13604FBB00294D59 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3053AC6E109B7857006FCFE7 /* VERSION */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1173, 866}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 5}";
+		};
+	};
+	C91FBEE31361BC8300960EE3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/rabshakeh/workspace/Appventist/code/Appventist/PhoneGap.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	C92764A613604FB800294D59 /* Appventist */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Appventist;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C92764CB13604FBB00294D59 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C92764CC13604FBB00294D59 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C927653F1360616100294D59 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AppventistAppDelegate.h */;
+		name = "AppventistAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 276;
+		vrLoc = 0;
+	};
+	C927654A1360641A00294D59 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/rabshakeh/workspace/Appventist/code/Appventist/www/index.html;
+		sourceTree = "<absolute>";
+	};
+	C9739AC913648DD5003DD1BE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Appventist-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/rabshakeh/workspace/Appventist/code/Appventist/Appventist-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C9BA07F413608FD200A17F5D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C927654A1360641A00294D59 /* index.html */;
+		name = "index.html: 1623";
+		rLen = 0;
+		rLoc = 54208;
+		rType = 0;
+		vrLen = 2438;
+		vrLoc = 18163;
+	};
+	C9D86E1C136476CB00CD878C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Appventist-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/rabshakeh/workspace/Appventist/code/Appventist/Appventist-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
